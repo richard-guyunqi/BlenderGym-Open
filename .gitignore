@@ -1,0 +1,16 @@
+bench_data
+temp.yml
+eval_renders
+bench_data.zip
+outputs
+temp.yml
+__pycache__
+infinigen_1
+infinigen/
+system/errors/
+system/credentials
+errors/
+temporary/
+
+
+

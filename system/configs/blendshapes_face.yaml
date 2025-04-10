@@ -1,0 +1,34 @@
+task:
+  type: "shapekey"
+
+
+credentials:
+  openai: credentials/openai_api.txt
+  claude: credentials/claude_api.txt
+  gemini: credentials/gemini_api.txt
+
+input:
+  text_prompt: "A winky face with a slanted smile"
+  input_image: 
+  target_code:
+
+output:
+  output_dir: "output/winky_face/"
+
+run_config:
+  blender_command: "../infinigen/blender/blender"
+  edit_style: "edit_code"
+  num_tries: 1
+  enable_visual_imagination: False 
+  enable_hypothesis_reversion: True
+  variants: 
+    - "tune"
+  tree_dims: 
+    - "2x3"
+  edit_generator_type: "gpt-4o"
+  state_evaluator_type: "gpr-4o"
+
+  max_concurrent_rendering_processes: 1
+  max_concurrent_evaluation_requests: 1
+  max_concurrent_generator_requests: 1
+
