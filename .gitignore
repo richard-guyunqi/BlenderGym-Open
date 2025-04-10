@@ -8,7 +8,6 @@ __pycache__
 infinigen_1
 infinigen/
 system/errors/
-system/credentials
 errors/
 temporary/
 
