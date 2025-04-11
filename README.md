@@ -38,7 +38,7 @@ We provide a list of BlenderGym-suppoted models in [Supported Models](#supported
 If the VLM you want to test is not supported, jump to [Custom VLM Plug-in](#custom-vlm-plug-in).
 
 ## [Optional] Test your VLM setup
-To test your VLM setup, jump to [Testing VLM Setup](#testing-vlm-setup). 
+To sanity-check your API / local implementation, you can optionally jump to [Testing VLM Setup](#testing-vlm-setup) for some simple tests.
 
 ## Inference on BlenderGym
 This section introduces how to run your VLM on BlenderGym data to generate output edits.
