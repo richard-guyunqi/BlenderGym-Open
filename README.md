@@ -18,8 +18,8 @@ This repo contains the evaluation code for the paper "[BlenderGym: Benchmarking 
 # Installation
 ```
 # Clone BlenderGym
-git clone https://github.com/richard-guyunqi/BlenderGym.git
-cd BlenderGym
+git clone https://github.com/richard-guyunqi/BlenderGym-Open.git
+cd BlenderGym-Open
 
 # Creates conda environment for BlenderGym
 conda create -n blendergym python=3.10
