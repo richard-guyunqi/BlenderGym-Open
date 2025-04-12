@@ -6,7 +6,7 @@
 This repo contains the evaluation code for the paper "[BlenderGym: Benchmarking Foundational Model Systems for 3D Graphics](https://arxiv.org/abs/2504.01786)".
 
 ## 🔔News
-1. 2025-4-: We release BlenderGym, the first VLM System benchmark on 3D graphics editing!
+1. 2025-4-11: We release BlenderGym, the first VLM System benchmark on 3D graphics editing!
 2. 2025-4-4: BlenderGym is accepted for **Highlight** at **CVPR 2025** (top 387 over 13,008 valid submissions)!
 3. 2025-4-2: Our paper is now accessible at [https://arxiv.org/abs/2504.01786](https://arxiv.org/abs/2504.01786)! 
 4. 2025-2-26: BlenderGym is accepted to **CVPR 2025**!
